@@ -26,7 +26,7 @@ const SideBar = () => (
         <a href="https://umbc.edu/">University of Maryland Baltimore County</a> graduate,
         Alumni at{' '}
         <a href="https://sreenidhi.edu.in/">Sreenidhi Institute of Science and Technology</a>. I have
-        completed my masters in Computer Science and seeking opportunities for industrial experience.
+        completed my masters in Computer Science and seeking opportunities for industrial experience
       </p>
       <ul className="actions">
         <li>
